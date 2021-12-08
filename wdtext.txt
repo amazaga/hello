@@ -5,3 +5,8 @@ char * strcpy( char *strDest, const char *strSrc )
     while( (*strDest++ = *strSrc++) != 0');
     return address;
 }
+//
+//本地编辑
+//
+//
+//
